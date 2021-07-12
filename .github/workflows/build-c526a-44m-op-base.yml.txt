@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt C526A 44M
+name: Build OpenWrt C526A 44M Base
 
 on:
   repository_dispatch:
